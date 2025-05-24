@@ -1,11 +1,3 @@
-{ "name": "nodejs-ecommerce-api-vl",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "dev": "nodemon server.js"
-
-    
-  },
-  "keywords": [],
-  "author": "Jane Doe"
+{ 
+  "author": "Jane Doe",
 }
